@@ -1,1 +1,17 @@
-# Cymatics-Ultimate-Edition
+# Cymatics Ultimate Edition
+-------------
+![alt-текст](https://cdn.shopify.com/s/files/1/0129/7698/0032/files/cymatics-dark-logo.png?height=628&pad_color=fff&v=1612205446&width=1200 "Cymatics Ultimate Edition")
+# Closed version for promoters.
+### 💻 Only for Windows 7/8/8.1/10
+#### Windows Tech Specs
+* Graphics - Open GL 3.3 or later compatible
+* Processor - Intel Core i5 or better
+* OS - Windows 7 or higher (only x64-bit OS)
+* RAM - 8 GB or more
+* Disk space - 10 GB free space
+
+![alt-текст](https://graydonschwartz.com/wp-content/uploads/2019/10/gif_AI-Sky-Replacement_3.gif "Cymatics Ultimate Edition")
+
+## Want to fulfil your dream of being a creative music producer, even without any experience? Cymatics Ultimate Edition lets you get started right away. Simply choose sounds from a massive collection of beats, tunes and vocals at chart quality level. Combine sounds and loops per drag & drop, play a whole library of software instruments and apply professional effects. It's time for your creative ideas to take center stage. Simply create music..
+
+
